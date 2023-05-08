@@ -1,0 +1,10 @@
+
+*.pyc
+.DS_Store
+logs
+.github
+common_model/similarity_search/Chinese-CLIP-master
+common_model/similarity_search/clip-vit-bert-chinese-1M
+common_model/similarity_search/bert_model.onnx
+common_model/private_detector/saved_model/saved_model.pb
+common_model/gibberish/markov_report.pkl
